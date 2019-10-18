@@ -1,0 +1,29 @@
+html {
+  background-color: orange;
+}
+
+#graphGoesHere{
+  float: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+svg {
+  box-sizing: border-box;
+  position: center;
+  background-color: black;
+  border-radius: 30px;
+}
+
+.messages {
+  border-radius: 20px;
+  border: 2px solid chocolate;
+  position: center;
+  width: auto;
+}
+
+#moreInfo {
+  background-color: blue;
+}
